@@ -1,17 +1,28 @@
 # Data Cleaning SQL
 
+## Table of Content
+* [About the Project](#about-the-project)
+* [Data Source](#data-source)
+* [Tool](#tool)
+* [Data Cleaning/Preparation](#data-cleaningpreparation)
+* [SQL Code](#sql-code)
+* [Reference](#reference)
+
+
+
+
 ## About the Project
 
 The main focus of the project is to clean the dataset using SQL. The project contains dataset that has 19 columns withs 2 identifiers and
 other information included in the datset include price, no of bedroom and bathroom. 
 
-### Data Source.
+### Data Source
 The primary dataset used for this project is the "Nashville Housing Data".
 
 ### Tool
 - SQL
 
-### Data Cleaning/Preparation.
+### Data Cleaning/Preparation
 
 In the data cleaning phase, i performed the following task;
 - standardizing the data & updating the table.
@@ -31,7 +42,7 @@ In the data cleaning phase, i performed the following task;
 convert(DATE,SaleDate)as New_Date
 from Sheet1$`
 
-### Reference.
+### Reference
 [AlexTheAnalyst](https://github.com/AlexTheAnalyst/PortfolioProjects)
 
 
