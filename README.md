@@ -32,7 +32,7 @@ convert(DATE,SaleDate)as New_Date
 from Sheet1$`
 
 ### Reference.
-[AlexTheAnalyst](
+[AlexTheAnalyst](https://github.com/AlexTheAnalyst/PortfolioProjects)
 
 
 
